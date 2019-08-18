@@ -1,8 +1,8 @@
 module.exports = {
-  host: '172.17.0.3',
+  host: 'localhost',
   username: 'root',
   password: 'root',
-  database: 'database',
+  database: 'root',
   dialect: 'mysql',
   logging: false,
   define: {
